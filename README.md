@@ -6,5 +6,5 @@ A Max patch to interface with the [Keith McMillen SoftStep 2](https://keithmcmil
 
 ![presentation view](https://github.com/joshstovall/SoftStep/blob/master/presentation.png?raw=true)
 
-made by Josh Stovall
+made by Josh Stovall  
 https://github.com/joshstovall
